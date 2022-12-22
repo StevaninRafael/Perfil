@@ -1,5 +1,5 @@
-**Oi! Eu Sou Rafael! , Tenho 18 Anos e Atualmente estou buscando conhecimento em algumas Linguagens de
-Programação como C++,JS,Python,MySql e LUA**.
+**Oi! Eu Sou Rafael! , Tenho 19 Anos e Atualmente estou buscando conhecimento em algumas Linguagens de
+Programação como C++,JS,Python,MySql**.
 -
 ------------------------------
 
@@ -19,7 +19,6 @@ Programação como C++,JS,Python,MySql e LUA**.
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![LUA](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ----------------------
