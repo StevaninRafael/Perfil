@@ -1,5 +1,4 @@
-**Oi! Eu Sou Rafael! , Tenho 19 Anos e Atualmente estou buscando conhecimento em algumas Linguagens de
-Programação como C++,JS,Python,MySql**.
+**Bem Vindo**.
 -
 ------------------------------
 
